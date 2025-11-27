@@ -63,7 +63,7 @@ function LoginForm() {
       </FormRowVertical>
       <FormRowVertical>
         <TitleCredentials>Test Credentials</TitleCredentials>
-        <Label>Email: xatoca6913@avashost.com</Label>
+        <Label>Email: test@test.com</Label>
         <Label>Password: 12345678</Label>
       </FormRowVertical>
       <FormRowVertical>
